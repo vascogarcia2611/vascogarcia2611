@@ -1,6 +1,6 @@
 # Hey, I'm Vasco 👋
 
-Computer Engineering student @ [ISEL](https://www.isel.pt/) in Lisbon, graduating June 2027. I like building things that solve real problems and diving deep into how systems work under the hood.
+Computer Engineering student @ [ISEL](https://www.isel.pt/) in Lisbon. I like building things that solve real problems and diving deep into how systems work under the hood.
 
 In 2023, I was part of an **ESA Astro Pi Challenge** finalist team as a developer — we wrote Python code that ran on Raspberry Pi hardware aboard the International Space Station.
 

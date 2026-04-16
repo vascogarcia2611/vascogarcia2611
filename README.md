@@ -1,8 +1,8 @@
 # Hey, I'm Vasco 👋
 
-Computer Engineering student at [ISEL](https://www.isel.pt/) in Lisbon, graduating June 2027. I'm focused on **backend and distributed systems** — building APIs that don't crash under load, services that scale, and infrastructure that makes everything else possible.
+Computer Engineering student at [ISEL](https://www.isel.pt/) in Lisbon, graduating June 2027. I'm focused on **backend and distributed systems**, building APIs that don't crash under load, services that scale, and infrastructure that makes everything else possible.
 
-In 2023, I was part of an **ESA Astro Pi Challenge** finalist team as a developer — we wrote Python code that ran on Raspberry Pi hardware aboard the International Space Station.
+In 2023, I was part of an **ESA Astro Pi Challenge** finalist team as a developer, we wrote Python code that ran on Raspberry Pi hardware aboard the International Space Station.
 
 Currently building full-stack apps with a Kotlin + Spring Boot backend, while exploring how AI integrates into production systems.
 
